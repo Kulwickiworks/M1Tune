@@ -82,21 +82,10 @@ This is tedious but it ensures you understand what you are doing and allows anyo
 ---
 
 ## Research
-
-This README functions as a collection of reference material and findings related to the M1 Tune project. If you find something useful, add it under the appropriate section below.
-
-> [!IMPORTANT]
-> **If you add a source here, also add it to the [GitHub Wiki](../../wiki) so we have one collective place where everything is stored.** Copy the same link and title into the wiki under the matching section.
-
+Any information that you find online you should be putting it in the WIKI at the top. This is so we have a list of sources for people to go in and look at later. Also put in Onenote as well.
 > [!NOTE]
-> To add a link, copy this format and paste it under the right section:
+> To add a source, copy this format and paste it under the right section:
 > ```
 > - [Title](https://your-link-here.com)
 > ```
-> The commit message does not matter as much here — just describe what the link is in reference to.
 
----
-
-### Research Papers / PDFs
-
--
