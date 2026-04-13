@@ -1,25 +1,29 @@
-Repository for M1 Tune\
+# M1 Tune Repository
+
 [Progress Tune](https://docs.google.com/spreadsheets/d/1RPckYIwSD2WF-GWpdYGGkXlY10vhSMqvVTC9QVElQrg/edit?usp=sharing)
 
-GitHub Intstructions
-1.) Download [Github Desktop](https://desktop.github.com/download/) \
-2.) Go to the repository on the github website \
-3.) Click the green code button \
-4.) Press "Open in Github desktop" \
-5.) Clone the respository in desktop app to a directory \
-6.) Whenever you make changes, push to repository; make sure files stay in your respective folder
+---
 
-Oh and one more thing, when you make changes type what changes you made before you push. Do not just do shit and then not explain what you did so we have to go searching for what you did.
+## Getting Started with GitHub
 
-Thank you.
+1. Download [GitHub Desktop](https://desktop.github.com/download/)
+2. Go to the repository on the GitHub website
+3. Click the green **Code** button
+4. Press **"Open in GitHub Desktop"**
+5. Clone the repository to a folder on your computer
 
-# M1 Tune Workflow Instructions
+---
+
+## Pushing Changes
+
+- Keep your files in your respective folder
+- **Before you push, write a description of what you changed.** Do not push without explaining what you did — nobody should have to go searching through the files to figure out what you changed.
+
+---
+
+## M1 Tune Workflow Instructions
 
 When you finish your section of the M1 tune file, go to **File → Save As** and put your initials in the file name.
-
-Then go to GitHub and click **"Add new file"**. Create a pull request with the following:
-- **Title:** `(Your Name) M1 Tune Push Request`
-- **Description:** Write what you changed
 
 Once you have made the push, go to your personal folder's README and log everything you changed using this format. Put two spaces at the end of each line to create a new line:
 
