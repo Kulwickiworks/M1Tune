@@ -30,7 +30,7 @@ Once you have made the push, go to your personal folder's README and log everyth
 ---
 
 **Variable Name:** Original Value -> New Value  (two spaces here)
-What this variable does and why you changed it.  (two spaces here)
+What this variable does and why you changed it. If the variable does need more in depth research link it. Refer to the reseach header below on how to do that (two spaces here)
 
 ---
 
